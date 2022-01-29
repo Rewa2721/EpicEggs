@@ -1,2 +1,2 @@
-# EpicEggs
+# EpicEggsNFT
 Break your EpicEggs
